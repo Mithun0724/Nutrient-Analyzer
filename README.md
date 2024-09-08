@@ -7,3 +7,13 @@ The proposed soil nutrient monitoring robot is designed to navigate the entire f
 # Images
 
 # Schematic Diagram
+# Code
+# Conclusion
+Our team has developed a rudimentary prototype that can be scaled up by creating more robust and reliable designs for broader agricultural applications. The robot's functionality can be expanded to monitor non-essential nutrients, water depth, soil pH levels, and detect the presence of excessive inorganic fertilizers and pesticides. Future versions could also be automated to minimize human effort and streamline the entire monitoring process.
+
+
+
+
+
+
+
