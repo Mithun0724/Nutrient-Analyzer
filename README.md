@@ -1,4 +1,4 @@
-# Nutrient-Analyzer-
+# Nutrient-Analyzer
 This bot is designed to traverse a farm, measure essential nutrient values including Nitrogen (N), Phosphorus (P), and Potassium (K), and provide actionable insights to the farmer.
 # Problem
 Nitrogen, Phosphorus, and Potassium (NPK) are three essential nutrients crucial for the growth of most crops. Fertilizers used by farmers primarily contain these elements to enhance crop growth. For optimal yield, these nutrients must be present in the soil in precise proportions. However, many farmers do not regularly monitor or analyze their soil, which means they may not know the exact fertilizer requirements. To address this issue, we propose a soil nutrient monitoring robot that analyzes the soil and provides detailed feedback on the current and ideal concentrations of NPK levels.
